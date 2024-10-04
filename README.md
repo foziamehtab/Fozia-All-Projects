@@ -1,1 +1,1 @@
-An enthusiastic and motivated data analyst, eager to always learn the best tools and techniques for data analysis..Thanks
+Exploratory Data Analytics using Excel,SQL, Power Bi and Tableau
